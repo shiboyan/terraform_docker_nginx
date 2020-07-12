@@ -1,0 +1,10 @@
+variable "vpc_output_id" {
+}
+
+
+
+variable "ec2_output_id" {
+}
+
+variable "subnet_ids" {
+}
